@@ -17,3 +17,7 @@ vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.90.120:443?type=ws&security=
 vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@94.183.157.246:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pol2.panel11.ru&fp=firefox&pbk=dkaIImQrQ1ZVQGNfyrNZbtkE-8hxp_u8AH99XDFgfHw&sid=75c55b707d25ae8d&type=tcp#🇵🇱 Польша Premium
 ss://chacha20-ietf-poly1305:THFFWv7np93DBLKZUvVm7u@157.22.240.141:57925#🇦🇱 Албания Premium
 trojan://HC04361579@renewing-ewe.rooster465.autos:443?security=tls&sni=renewing-ewe.rooster465.autos&type=tcp#🇭🇰 Гонконг Premium
+vless://663836b2-f676-43fb-977f-47c495b1b383@212.233.99.132:6448?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.oracle.com&fp=firefox&pbk=aFbCyrLOre-V3ORpBjqenGfDt62Ng_i1sSq-DmZHVgc&sid=89e0494514ec&type=tcp#🇹🇷 Турция #1 Premium
+vless://663836b2-f676-43fb-977f-47c495b1b383@ru.chick-team.ru:6448?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.oracle.com&fp=chrome&pbk=aFbCyrLOre-V3ORpBjqenGfDt62Ng_i1sSq-DmZHVgc&sid=89e0494514ec&type=tcp#🇹🇷 Турция #2 Premium
+vless://663836b2-f676-43fb-977f-47c495b1b383@ru.chick-team.ru:6448?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.oracle.com&fp=qq&pbk=aFbCyrLOre-V3ORpBjqenGfDt62Ng_i1sSq-DmZHVgc&sid=89e0494514ec&type=tcp#🇹🇷 Турция #3 Premium
+vless://663836b2-f676-43fb-977f-47c495b1b383@109.73.206.180:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=st.ozone.ru&fp=chrome&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&sid=d484643ca8396614&type=tcp#🇷🇺 Россия от Ozon Premium
